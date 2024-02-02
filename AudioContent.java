@@ -1,5 +1,4 @@
-// Name - Burhanuddin Dahodwala
-// Student Number - 501153209
+
 
 /*
  *  Audio Content contains information common to all types of audio (e.g. songs, audiobooks etc)
