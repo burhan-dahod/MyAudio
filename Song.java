@@ -1,5 +1,4 @@
-// Name - Burhanuddin Dahodwala
-// Student Number - 501153209
+
 
 /*
  * A Song is a type of AudioContent. A Song has extra fields such as Artist (person(s) singing the song) and composer 
