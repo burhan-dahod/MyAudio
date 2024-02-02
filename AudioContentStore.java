@@ -1,5 +1,3 @@
-// Name - Burhanuddin Dahodwala
-// Student Number - 501153209
 
 import java.io.IOException;
 import java.util.ArrayList;
